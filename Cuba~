@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Cuba</title>
+		<meta charset="utf-8"/>
+		<link rel="stylesheet" type="text/css" href="main.css"/>
+	</head>
+	<body>
+		<h1>Cuba</h1>
+		<ul>
+			<li>Cultura</li>
+			<li>Deportes</li>
+			<li>Historia</li>
+			<li>Gobierno</li>
+			<li>Economia</li>
+			<li>Demografía</li>
+		</ul>
+	</body>
+</html>
